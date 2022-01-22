@@ -1,7 +1,7 @@
 # TF2 Class Wars Stats
 
 ## Total Round Breakdown
-![data0](main/data0_totalwins.png)
+![data0](data0_totalwins.png)
 
 ## Class Win/Loss Ratios
 ![data1](https://github.com/ShrimpyJ/ClassWars/blob/main/data1_winslosses.png)
